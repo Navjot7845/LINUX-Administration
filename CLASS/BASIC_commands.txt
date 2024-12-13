@@ -1,0 +1,8 @@
+rmdir - delete repositry .
+mkdir - make new directory .
+-p - path .
+cp - copying 
+mv - move 
+cd - change directory .
+ls - list 
+touch ..hidden -  to make hidden file . 
